@@ -2,5 +2,12 @@
 
 Supporting materials for the [AIOps Newsletter](https://theaiops.substack.com/)
 
-
-Issue 9: Setting Up a Memory for an AI Application - The Hard Way available on [Substack](https://open.substack.com/pub/theaiops/p/setting-up-a-memory-for-an-ai-application?r=1x99er&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and Medium | [code](https://github.com/RamiKrispin/the-aiops/tree/main/issues/09_adding_memory_to_ai_app)
+- Issue 1: Introduction to Docker Offload on [Substack](https://theaiops.substack.com/p/introduction-to-docker-offload)
+- Issue 2: Getting Started with Docker Model Runner on [Substack](https://theaiops.substack.com/p/getting-started-with-docker-model) and [Medium](https://medium.com/data-science-collective/getting-started-with-docker-model-runner-c2ed4ce4b5ee)
+- Issue 3: Running LLMs Locally with Docker Model Runner and Python on [Substack](https://theaiops.substack.com/p/running-llms-locally-with-docker) and [Medium](https://medium.com/data-science-collective/running-llms-locally-with-docker-model-runner-and-python-06b2182bfe0a)
+- Issue 4: Docker Model Runner - Pull LLMs from Hugging Face on [Substack](https://theaiops.substack.com/p/docker-model-runner-pull-llms-from) and [Medium](https://medium.com/data-science-collective/docker-model-runner-pull-llms-from-hugging-face-f1e3b08612b8)
+- Issue 5: Running OpenAI GPT OSS Locally with Docker Model Runner and R on [Substack](https://theaiops.substack.com/p/running-openai-gpt-oss-locally-with) and [Medium](https://medium.com/data-science-collective/running-openai-gpt-oss-locally-with-docker-model-runner-and-r-6a5292e44809)
+- Issue 6: From Zero to a Dockerized Development Environment in Minutes with GitHub Repository Templates on [Substack](https://theaiops.substack.com/p/from-zero-to-a-dockerized-development) and [Medium](https://medium.com/data-science-collective/from-zero-to-a-dockerized-development-environment-in-minutes-with-github-repository-templates-6193f6d4ecb4)
+- Issue 7: Running a LangChain 🦜🔗 Application with Docker Model Runner 🐳 on [Substack](https://theaiops.substack.com/p/running-langchain-application-with) and [Medium](https://medium.com/@rami.krispin/running-a-langchain-application-with-docker-model-runner-9248beb3ea56)
+- Issue 8: Setting Up OpenCode with Local Models on [Substack](https://theaiops.substack.com/p/setting-up-opencode-with-local-models) and [Medium](https://medium.com/p/79abd8d8dbe6)
+- Issue 9: Setting Up a Memory for an AI Application - The Hard Way available on [Substack](https://open.substack.com/pub/theaiops/p/setting-up-a-memory-for-an-ai-application?r=1x99er&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and Medium | [code](https://github.com/RamiKrispin/the-aiops/tree/main/issues/09_adding_memory_to_ai_app)
